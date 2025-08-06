@@ -17,3 +17,6 @@ Output written to SamFinal.txt
 real    6m41.211s
 user    6m41.148s
 sys     0m0.032s
+
+![Ex1](Packing.bmp)
+
